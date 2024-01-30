@@ -222,9 +222,9 @@ margin-bottom: 72px;
 }
 .list-bgrnd{
     background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px; 
     padding-bottom: 32px;
     width: ( (100% - 72) / 4);
-    border-radius: 0px 0px 4px 4px; 
 }
 .card-list{
     display: flex;
