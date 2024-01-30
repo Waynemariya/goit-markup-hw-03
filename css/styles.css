@@ -215,8 +215,7 @@ margin-bottom: 72px;
 .section-three{
     background-color: #F4F4FD;
  padding-top: 120px;
- padding-bottom: 120px;
- border-radius: 0px 0px 4px 4px; 
+ padding-bottom: 120px; 
 }
 .card-text{
     padding: 32px 0;
@@ -225,6 +224,7 @@ margin-bottom: 72px;
     background-color: #FFFFFF;
     padding-bottom: 32px;
     width: ( (100% - 72) / 4);
+    border-radius: 0px 0px 4px 4px; 
 }
 .card-list{
     display: flex;
@@ -250,7 +250,6 @@ margin-bottom: 72px;
     padding: 32px 16px;
     border: 1px solid  #E7E9FC;
     border-top: none;
-    margin-bottom: 8px;
    }
 .portfolio-title{
     color: #2E2F42;
